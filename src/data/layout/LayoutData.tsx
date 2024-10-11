@@ -4,6 +4,7 @@ export const headerData = {
     {
       id: "Products",
       name: "Products",
+      
       featured: [
         {
           name: "New Arrivals",
